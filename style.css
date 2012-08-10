@@ -76,12 +76,14 @@ article {
 	width: 600px;
 	float: left;
 	margin: 5px;
+	font-family: Tahoma, sans-serif;
 }
 
 #sidebar {
 	width: 300px;
 	float: right;
 	margin: 5px;
+	font-family: Tahoma, sans-serif;
 }
 
 footer {
