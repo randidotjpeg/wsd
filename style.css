@@ -76,11 +76,13 @@ h1 {
 article {
 	width: 600px;
 	float: left;
+	margin: 5px;
 }
 
 #sidebar {
 	width: 300px;
 	float: right;
+	margin: 5px;
 }
 
 footer {
