@@ -1,13 +1,15 @@
 body {
 	width: 960px;
 	align: center;
-	margin: -10px;
+	margin: 0px;
 }
 
 header {
 	background: #23263e;
 	width: 960px;
 	height: 385px;
+	margin: 0px;
+	padding: 0px;
 }
 
 nav {
