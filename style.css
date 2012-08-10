@@ -13,9 +13,6 @@ header {
 	margin-right:auto;
 }
 
-header.p {
-	float: right;
-}
 
 nav {
 	background: #000;
@@ -61,6 +58,7 @@ nav {
 
 #intro {
 	float: left;
+	width: 300px;
 }
 
 #content {
