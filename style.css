@@ -58,9 +58,11 @@ nav {
 
 #intro {
 	font-family: "Arial", sans serif;
-	font-size: 10px;
+	font-size: 12px;
 	float: right;
 	width: 300px;
+	padding-right: 100px;
+	
 }
 
 #content {
