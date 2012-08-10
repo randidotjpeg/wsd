@@ -7,6 +7,7 @@ html, head, body {
 
 header {
 	background: #23263e;
+	opacity: 0.8;
 	width: 960px;
 	height: 385px;
 	margin-left:auto;
@@ -202,7 +203,9 @@ ul li {
 
 footer {
 	height: 50px;
-	margin: 10px;
+	margin-left:auto;
+	margin-right:auto;
+	background: #23263e;
 }
 
 	
