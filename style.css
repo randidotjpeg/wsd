@@ -23,6 +23,7 @@ nav {
 #content {
 	width: 960px;
 	display: block;
+	position: relative;
 	margin: 0px;
 	padding: 0px;
 }
