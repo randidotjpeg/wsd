@@ -23,9 +23,9 @@ nav {
 #content {
 	width: 960px;
 	display: block;
+	padding: 0px;
 	margin-left:auto;
 	margin-right:auto;
-	padding: 0px;
 }
 
 h1 {
