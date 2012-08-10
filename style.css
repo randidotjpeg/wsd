@@ -71,4 +71,12 @@ h1 {
 	float: left;
 }
 
+article {
+	width: 500px;
+}
+
+#sidebar {
+	width: 300px;
+}
+
 	
