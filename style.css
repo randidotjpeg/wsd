@@ -126,6 +126,10 @@ ul li {
 	padding: 0;
 }
 
+#factslist.ul {
+	list-style-type: square;
+}
+
 .button
 {
     margin: 10px;
