@@ -8,16 +8,16 @@ header {
 	background: #23263e;
 	width: 960px;
 	height: 385px;
-	margin: 0px;
-	padding: 0px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 nav {
 	background: #000;
 	width: 960px;
 	height: 40px;
-	margin: 0px;
-	padding: 0px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 	nav ul {
