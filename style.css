@@ -98,9 +98,6 @@ ul {
 ul li {
 	margin: 0;
 	padding: 0;
-	border: 2px solid #23263e;
-	width: 74px;
-	list-style: none;
 }
 
 .button
