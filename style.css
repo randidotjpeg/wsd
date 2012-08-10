@@ -1,6 +1,11 @@
 body {
+	color: #AAA;
+}
+
+.content {
 	width: 960px;
 	float: center;
+	display: block;
 	margin: 0px;
 	padding: 0px;
 }
