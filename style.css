@@ -20,6 +20,39 @@ nav {
 	padding: 0px;
 }
 
+	nav ul {
+		font-family: Arial, Verdana;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+ 
+	nav ul li {
+		display: block;
+		position: relative;
+		float: left;
+ 
+	}
+
+	nav ul li a {
+		display: block;
+		text-decoration: none;
+		padding: 7px 15px 3px 15px;
+		background: #2C5463;
+		color: #ffffff;  
+		margin-left: 1px;
+		white-space: nowrap;
+		height:30px; /* Width and height of top-level nav items */
+		width:90px;
+		text-align:center;
+ 
+	}
+ 
+		nav ul li a:hover { 
+			background: #617F8A; 
+		}
+
 .content {
 	width: 960px;
 	display: block;
