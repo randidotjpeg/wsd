@@ -76,6 +76,10 @@ h1 {
 	float: left;
 }
 
+h1.drop-shadow {
+	text-shadow: 2px 2px 4px grey;
+}
+
 article {
 	width: 600px;
 	float: left;
