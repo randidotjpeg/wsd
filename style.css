@@ -72,13 +72,17 @@ h1 {
 }
 
 article {
-	width: 500px;
+	width: 600px;
 	float: left;
 }
 
 #sidebar {
 	width: 300px;
 	float: right;
+}
+
+footer {
+	height: 50px;
 }
 
 	
