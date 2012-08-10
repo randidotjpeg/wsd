@@ -58,6 +58,10 @@ nav {
 			background: #617F8A; 
 		}
 
+#intro {
+	float: right;
+}
+
 #content {
 	width: 960px;
 	display: block;
