@@ -1,13 +1,7 @@
+
 html, head, body {
 	margin: auto;
 	padding: 0;
-}
-
-#content {
-	width: 960px;
-	display: block;
-	margin: 0px;
-	padding: 0px;
 }
 
 header {
@@ -22,6 +16,13 @@ nav {
 	background: #000;
 	width: 960px;
 	height: 50px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content {
+	width: 960px;
+	display: block;
 	margin: 0px;
 	padding: 0px;
 }
