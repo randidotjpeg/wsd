@@ -73,10 +73,12 @@ h1 {
 
 article {
 	width: 500px;
+	float: left;
 }
 
 #sidebar {
 	width: 300px;
+	float: right;
 }
 
 	
