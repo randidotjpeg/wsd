@@ -33,6 +33,7 @@ nav {
 	}
  
 	nav ul li {
+		font-family: "Arial", sans serif;
 		display: block;
 		position: relative;
 		float: left;
