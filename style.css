@@ -12,6 +12,10 @@ header {
 	margin-right:auto;
 }
 
+header.p {
+	float: right;
+}
+
 nav {
 	background: #000;
 	width: 960px;
