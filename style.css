@@ -15,7 +15,7 @@ header {
 nav {
 	background: #000;
 	width: 960px;
-	height: 50px;
+	height: 40px;
 	margin: 0px;
 	padding: 0px;
 }
@@ -39,7 +39,7 @@ nav {
 	nav ul li a {
 		display: block;
 		text-decoration: none;
-
+		padding: 7px 15px 3px 15px;
 		background: #000;
 		color: #ffffff;  
 		margin-left: 1px;
