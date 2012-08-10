@@ -88,6 +88,12 @@ article {
 	font-size: 12px;
 }
 
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
 footer {
 	height: 50px;
 	margin: 10px;
