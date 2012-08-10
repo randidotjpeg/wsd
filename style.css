@@ -57,7 +57,9 @@ nav {
 		}
 
 #intro {
-	float: left;
+	font-family: "Arial", sans serif;
+	font-size: 10px;
+	float: right;
 	width: 300px;
 }
 
