@@ -77,6 +77,7 @@ article {
 	float: left;
 	margin: 5px;
 	font-family: Tahoma, sans-serif;
+	font-size: 12px;
 }
 
 #sidebar {
@@ -84,6 +85,7 @@ article {
 	float: right;
 	margin: 5px;
 	font-family: Tahoma, sans-serif;
+	font-size: 12px;
 }
 
 footer {
