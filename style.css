@@ -105,6 +105,15 @@ article {
 	font-size: 12px;
 }
 
+a {
+	font-family: bold;
+	color: #23263e;
+}
+
+a:hover {
+	color: #999;
+}
+
 ul {
 	list-style: none;
 	margin: 0;
