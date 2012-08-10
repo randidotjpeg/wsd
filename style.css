@@ -61,7 +61,7 @@ nav {
 #intro {
 	font-family: "Arial", sans serif;
 	font-size: 14px;
-	float: right;
+	float: left;
 	width: 300px;
 	padding-right: 120px;
 	padding-top: 100px;
@@ -117,7 +117,7 @@ a:hover {
 }
 
 img {
-	float: right;
+	float: left;
 	margin: 0px;
 }
 
