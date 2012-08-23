@@ -90,7 +90,7 @@ h1 {
 }
 
 h1.drop-shadow {
-	text-shadow: 2% 2% 4% #fff;
+	text-shadow: 2 2 4 #fff;
 }
 
 article {
@@ -139,6 +139,32 @@ ul#factslist {
 	list-style-type: square;
 }
 
+table {
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #000;
+}
+
+td {
+	background: #23263e;
+	opacity: 0.8;
+	border: 1px solid #000;
+	width: 50%;
+	text-align: center;
+	color: #fff;
+}
+
+th {
+	text-align: center;
+	background-color: #23263e;
+	color: #fff;
+	font-size: 1.25em;
+	width: 50%;
+}
+
+
+
+
 /* I did not create this button */
 
 .button
@@ -157,16 +183,16 @@ ul#factslist {
     
     text-shadow: 0 1px 0 rgba(0,0,0,0.4);
     
-    box-shadow: 0 0 .05em rgba(0,0,0,0.4);
-    -moz-box-shadow: 0 0 .05em rgba(0,0,0,0.4);
-    -webkit-box-shadow: 0 0 .05em rgba(0,0,0,0.4);
+    box-shadow: 0 0 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0 0 2px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 0 0 2px rgba(0,0,0,0.4);
     
 }
 
 .button, .button span
 {
-    -moz-border-radius: .3em;
-    border-radius: .3em;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
 }
 
 .button span
@@ -231,6 +257,70 @@ ul#factslist {
     background: #4477a1;
 }
 
+fieldset {
+width: 100%;
+}
+
+form {
+margin:auto;
+position:relative;
+overflow: hidden;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+font-style: italic;
+line-height: 24px;
+font-weight: bold;
+color: #23263e;
+text-decoration: none;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding:10px;
+border: 1px solid #999;
+border: inset 1px solid #333;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+input {
+width:375px;
+display:block;
+border: 1px solid #999;
+height: 25px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+textarea#feedback {
+width:375px;
+height:150px;
+}
+
+textarea.message {
+display:block;
+width:375px;
+}
+
+button.button {
+width:100px;
+position:absolute;
+right:20px;
+bottom:20px;
+background:#09C;
+color:#fff;
+font-family: Tahoma, Geneva, sans-serif;
+height:30px;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border: 1p solid #999;
+}
+input.button:hover {
+background:#fff;
+color:#09C;
+}
 
 footer {
 	width: 60%;
@@ -392,7 +482,7 @@ nav {
 		margin-right:auto;
 		list-style: none;
 		float: none;
-		border-bottom: 1% solid #aaa;
+		border-bottom: 1px solid #aaa;
 		width: 100%;
 	}
  
@@ -451,11 +541,11 @@ h1 {
 	margin-right:auto;
 	text-align: center;
 	float: none;
-	border-bottom: 1% solid #aaa;
+	border-bottom: 1px solid #aaa;
 }
 
 h1.drop-shadow {
-	text-shadow: 2% 2% 4% #fff;
+	text-shadow: 2 2 4 #fff;
 }
 
 article {
@@ -541,7 +631,7 @@ nav {
 		margin-right:auto;
 		list-style: none;
 		float: none;
-		border-bottom: 1% solid #aaa;
+		border-bottom: 1px solid #aaa;
 		width: 100%;
 	}
  
@@ -599,11 +689,11 @@ h1 {
 	margin-right:auto;
 	text-align: center;
 	float: none;
-	border-bottom: 1% solid #aaa;
+	border-bottom: 1px solid #aaa;
 }
 
 h1.drop-shadow {
-	text-shadow: 2% 2% 4% #fff;
+	text-shadow: 2 2 4 #fff;
 }
 
 article {
